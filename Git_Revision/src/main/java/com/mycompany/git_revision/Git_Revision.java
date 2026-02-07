@@ -12,5 +12,6 @@ public class Git_Revision {
 
     public static void main(String[] args) {
         System.out.println("Hello Oswald!");
+         System.out.println("Hello Oswald!");
     }
 }
